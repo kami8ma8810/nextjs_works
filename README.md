@@ -1,2 +1,1 @@
-# nextjs_works
-Next.jsで作った制作物
+# Next.jsで作った制作物まとめ
